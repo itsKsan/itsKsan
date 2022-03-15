@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @itsKsan
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 itsKsan/itsKsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
